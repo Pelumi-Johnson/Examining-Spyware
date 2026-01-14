@@ -2,6 +2,9 @@
 
 ![Badge](https://img.shields.io/badge/Network%20Security-Malware%20Analysis%20%7C%20Sandbox-blue?style=for-the-badge)
 
+📄 **Full Lab Report:**  
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Examining-Spyware/blob/main/Examining%20Spyware.pdf)
+
 ## 📌 Project Overview
 This UMGC lab focuses on safely examining a suspected spyware executable in a controlled sandbox environment. The goal is to run the file in isolation, observe process behavior, review network/HTTP activity, and determine whether the file shows malicious indicators. 
 
@@ -95,5 +98,5 @@ This lab reinforced the importance of sandbox environments for spyware/malware a
 ---
 
 ## 📎 Evidence
-- 📄 **Full UMGC Lab Report (PDF):** (`Examining Spyware.pdf)[]
+- 📄 [**Full UMGC Lab Report PDF**](https://github.com/Pelumi-Johnson/Examining-Spyware/blob/main/Examining%20Spyware.pdf)
 
