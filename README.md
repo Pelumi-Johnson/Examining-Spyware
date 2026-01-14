@@ -98,5 +98,5 @@ This lab reinforced the importance of sandbox environments for spyware/malware a
 ---
 
 ## 📎 Evidence
-👉 [**Full UMGC Lab Report PDF**](https://github.com/Pelumi-Johnson/Examining-Spyware/blob/main/Examining%20Spyware.pdf)
+📄 [Full UMGC Lab Report (PDF)](https://github.com/Pelumi-Johnson/Examining-Spyware/blob/main/Examining%20Spyware.pdf)
 
